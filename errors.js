@@ -1,0 +1,8 @@
+const ERROR_CODES = {
+    UNEXPECTED_ERROR: 'UNEXPECTED_ERROR',
+    USER_NOT_FOUND: 'USER_NOT_FOUND'
+};
+
+module.exports = {
+    ERROR_CODES
+}
